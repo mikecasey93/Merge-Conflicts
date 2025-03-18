@@ -37,7 +37,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
     Text(text = "This is practice for resolving merge conflicts")
-    Text(text = "The first code added by branch One")
+    Text(text = "This next code is added from a new branch")
+    Text(text = "More text added")
     Text(text = "This is the first initial commit")
 }
 
