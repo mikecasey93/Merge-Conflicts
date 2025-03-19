@@ -37,7 +37,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
     Text(text = "This is practice for resolving merge conflicts")
-    Text(text = "This is the third initial commit")
+    Text(text = "This is the fourth initial commit")
 }
 
 @Preview(showBackground = true)
