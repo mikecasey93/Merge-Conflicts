@@ -47,6 +47,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text("This is awesome")
     Text("I'm getting good")
     Text("This is easy")
+    Text("Some more text to practice")
 }
 
 @Preview(showBackground = true)
