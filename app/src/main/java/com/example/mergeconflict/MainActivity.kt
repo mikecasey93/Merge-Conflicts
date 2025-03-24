@@ -41,6 +41,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(text = "Some more new text")
     Text(text = "Next text")
     Text(text = "Hello World Android")
+    Text("this is amazing")
     Text(text = "I love Android")
     Text(text = "Hello Michael")
     Text("Im here")
